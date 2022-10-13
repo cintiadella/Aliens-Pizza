@@ -1,0 +1,82 @@
+/* Textos */
+.display-1 { font-size: 3rem; }
+.display-2 { font-size: 4rem; }
+.display-3 { font-size: 1.7rem; }
+
+/* Navbar */
+#navbar {
+  height: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#navbar .logo {
+  float: none;
+}
+
+#navbar ul {
+  float: none;
+  padding-left: 30px;
+}
+
+/* Material */
+#portada {
+  height: 100%;
+  padding: 90px 20px;
+}
+
+/* Menu */
+#food {
+  padding: 40px 0;
+  text-align: center;
+}
+
+#food h2 {
+  text-align: center;
+}
+
+#food .food-description {
+  float: none;
+  width: 100%;
+  padding: 10px 0;
+}
+
+#food .food-image {
+  float: none;
+  width: 100%;
+}
+
+
+/* Nosotros */
+#nosotros {
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+#nosotros h2 {
+  padding: 40px 0;
+}
+
+#nosotros .about-image {
+  float: none;
+  width: 100%;
+}
+
+#nosotros .about-text {
+  float: none;
+  width: 100%;
+  padding: 10px;
+}
+
+/* Contacto */
+#contacto {
+  padding: 40px 0;
+}
+
+#contacto h2 {
+  padding-bottom: 40px;
+}
+
+#contacto form {
+  width: 90%;
+}
